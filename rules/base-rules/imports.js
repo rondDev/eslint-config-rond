@@ -141,6 +141,8 @@ module.exports = {
       js: 'never',
       mjs: 'never',
       jsx: 'never',
+      ts: 'never',
+      tsx: 'never',
     }],
 
     // ensure absolute imports are above relative imports and that unassigned imports are ignored
