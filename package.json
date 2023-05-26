@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-rond",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "rond's Custom version of eslint-config-airbnb",
   "main": "index.js",
   "exports": {
